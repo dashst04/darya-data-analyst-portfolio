@@ -7,7 +7,7 @@
 Моя цель - развивать навыки анализа данных, продуктовой аналитики и принятия решений на основе данных.
 
 Инструменты и технологии:
-- Python (pandas, numpy, seaborn, matplotlib)
+- Python (pandas, numpy, seaborn, matplotlib, scipy)
 - SQL
 - Excel / Google Sheets
 - Jupyter Notebook

@@ -4,12 +4,6 @@
 
 🔗 **Ссылка на дашборд:** (https://datalens.yandex/0guke7oh2znul)
 
-### Скриншоты
-
-![Dashboard](<img width="1716" height="708" alt="Снимок экрана 2026-06-11 204348" src="https://github.com/user-attachments/assets/abf48c6f-6388-4810-84dd-5049e5f4c9ea" />)
-![Dashboard](<img width="1736" height="792" alt="Снимок экрана 2026-06-11 204519" src="https://github.com/user-attachments/assets/1a36b63d-9061-4d3e-a9c1-5f221794fea7" />)
-![Dashboard](<img width="1725" height="750" alt="Снимок экрана 2026-06-11 204528" src="https://github.com/user-attachments/assets/820e209e-a5ed-4aa2-8c77-24ae4abd0366" />)
-
 ## Описание проекта
 
 В рамках проекта был разработан интерактивный аналитический дашборд для исследования данных конференций TED. Заказчиком выступила компания, получившая лицензию на проведение собственных TED-конференций и заинтересованная в использовании опыта предыдущих мероприятий для организации успешного события.

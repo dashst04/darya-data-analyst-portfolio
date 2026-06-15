@@ -86,6 +86,7 @@
 * DBeaver
 * Python
 * Pandas
+* Statsmodels
 * SciPy
 * Matplotlib
 * Jupyter Notebook

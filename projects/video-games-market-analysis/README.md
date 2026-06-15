@@ -55,7 +55,6 @@
 
 * Python
 * Pandas
-* NumPy
 * Jupyter Notebook
 
 ## Этапы анализа

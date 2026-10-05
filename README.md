@@ -7,13 +7,16 @@
 В проектах я работаю с пользовательским поведением, продуктовыми и бизнес-метриками, воронками, когортами, юнит-экономикой и A/B-тестированием. Отдельное внимание уделяю подготовке данных, статистическому анализу и формированию выводов, которые могут использоваться для принятия продуктовых и бизнес-решений.
 
 ## 🛠️ Инструменты
-* **Python:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels
+
+* **Python:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels, PySpark
 * **SQL:** PostgreSQL, ClickHouse
+* **Оркестрация:** Apache Airflow
 * **BI:** Yandex DataLens
 * **Таблицы:** Google Sheets
 * **Среды и инструменты:** Jupyter Notebook, DBeaver
 
 ## 📊 Основные навыки
+
 * Предобработка и исследовательский анализ данных
 * SQL-анализ и работа с базами данных
 * Расчёт продуктовых метрик: DAU, WAU, MAU, ARPU, ARPPU, AOV, Conversion Rate, Retention Rate
@@ -27,6 +30,7 @@
 * Поиск аномалий в данных
 * Построение аналитических дашбордов
 * Формирование продуктовых гипотез и рекомендаций
+* Разработка ETL-процессов и автоматизация обработки данных
 
 ## 📁 Проекты
 
@@ -80,6 +84,13 @@
 
 Анализ эксперимента по внедрению нового алгоритма рекомендаций: подготовка данных, сравнение тестовой и контрольной групп, статистическая проверка гипотез и оценка влияния изменений на пользовательскую активность.
 
+### Обработка данных и автоматизация
+
+**[Автоматизация обработки данных о поездках Яндекс Такси](./projects/yandex-taxi-pyspark-airflow)**
+`PySpark` `Apache Airflow` `ClickHouse`
+
+Разработка автоматизированного ETL-процесса для обработки данных о поездках. С помощью PySpark сформирована витрина с показателями по способам оплаты, а в Airflow настроен ежедневный запуск обработки после появления нового файла в S3. Результаты загружаются в ClickHouse.
+
 ---
 
 ## 🔎 Быстрый поиск по навыкам
@@ -87,9 +98,12 @@
 | Навык                            | Проекты                                                                                                                                                                                                                                                           |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **SQL**                          | [Яндекс Книги](./projects/clickhouse-yandex-books-user-behavior), [Темнолесье](./projects/darkwood-game-sql-analysis), [Доставка еды](./projects/food-delivery-business-metrics-dashboard), [Маркетплейс](./projects/marketplace-product-analytics)               |
-| **ClickHouse**                   | [Яндекс Книги](./projects/clickhouse-yandex-books-user-behavior)                                                                                                                                                                                                  |
+| **ClickHouse**                   | [Яндекс Книги](./projects/clickhouse-yandex-books-user-behavior), [Яндекс Такси](./projects/yandex-taxi-pyspark-airflow)                                                                                                                                          |
 | **PostgreSQL**                   | [Доставка еды](./projects/food-delivery-business-metrics-dashboard)                                                                                                                                                                                               |
 | **Python / Pandas**              | [Контентная платформа](./projects/content-platform-unit-economics-analysis), [Финтех](./projects/fintech-app-ab-testing), [Маркетплейс](./projects/marketplace-product-analytics), [Рекомендательная система](./projects/recommendation-system-ab-testing-python) |
+| **PySpark**                      | [Яндекс Такси](./projects/yandex-taxi-pyspark-airflow)                                                                                                                                                                                                            |
+| **Apache Airflow**               | [Яндекс Такси](./projects/yandex-taxi-pyspark-airflow)                                                                                                                                                                                                            |
+| **ETL / Data Pipelines**         | [Яндекс Такси](./projects/yandex-taxi-pyspark-airflow)                                                                                                                                                                                                            |
 | **A/B-тестирование**             | [Финтех](./projects/fintech-app-ab-testing), [Рекомендательная система](./projects/recommendation-system-ab-testing-python)                                                                                                                                       |
 | **Статистический анализ**        | [Финтех](./projects/fintech-app-ab-testing), [Яндекс Книги](./projects/clickhouse-yandex-books-user-behavior), [Рекомендательная система](./projects/recommendation-system-ab-testing-python)                                                                     |
 | **Юнит-экономика**               | [Контентная платформа](./projects/content-platform-unit-economics-analysis), [Маркетплейс](./projects/marketplace-product-analytics)                                                                                                                              |
@@ -104,10 +118,11 @@
 Репозиторий будет пополняться новыми проектами по мере развития навыков и изучения новых инструментов.
 
 ---
+
 ## Контакты
 
 Буду рада предложениям о сотрудничестве и интересным задачам в области аналитики данных и продуктовой аналитики.
 
-* **Email:** dashst.04@gmail.com
+* **Email:** [dashst.04@gmail.com](mailto:dashst.04@gmail.com)
 * **Telegram:** @DashSt04
-* **LinkedIn:** www.linkedin.com/in/darya-stognieva-a16614437
+* **LinkedIn:** [www.linkedin.com/in/darya-stognieva-a16614437](http://www.linkedin.com/in/darya-stognieva-a16614437)

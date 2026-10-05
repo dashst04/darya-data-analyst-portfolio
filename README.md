@@ -110,4 +110,4 @@
 
 * **Email:** dashst.04@gmail.com
 * **Telegram:** @DashSt04
-* **LinkedIn:** [профиль]
+* **LinkedIn:** www.linkedin.com/in/darya-stognieva-a16614437
